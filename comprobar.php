@@ -64,7 +64,7 @@ while ($fila = mysqli_fetch_row($resul)){
 				echo "<b>USUARIO:</b>$fila[0]<b>CLAVE:</b>$fila[1]<b>NOMBRE:</b>$fila[2]<b>HAS CONSEGUIDO ENTRAR EN LA PAGINA WEB!</b><br>";
 				echo "<b>Elige una de estas opciones:<br>";
 				echo "<b>ALTAS<br>";
-				<a href="./alta.html">REGISTRARSE</a>
+				<a href="./altas.html">REGISTRARSE</a>
 
 			}
 
